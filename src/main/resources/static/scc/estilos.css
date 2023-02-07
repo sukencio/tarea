@@ -1,0 +1,41 @@
+#encabezado{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 10%;
+    width: 100%;
+    background-color: #706D5F;
+    color: white;
+    padding-left: 10px;
+}
+#menu{
+    position: absolute;
+    top:10%;
+    left:0;
+    height: 5%;
+    width: 100%;
+    background-color: #FFF2BA;
+    color:#cccccc;
+}
+
+#barra_lateral{
+    position: absolute;
+    top:15%;
+    left: 0%;
+    height: 85%;
+    width:15%;
+    background-color: #6E5F20;
+    color: black;
+    padding-left: 15px;
+}
+
+#contenido{
+    position: absolute;
+    top: 15%;
+    left: 15%;
+    height: 85%;
+    width: 85%;
+    background-color: #F0E9CC;
+    color: black;
+    padding-left: 20px;
+}
